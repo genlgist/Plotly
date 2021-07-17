@@ -1,0 +1,9 @@
+.jumbotron {
+  background-image: url("../images/jumbotron3.png");
+  background-size: 100%;
+}
+
+body {
+  color: black;
+  background-image: url("../images/background2.png");
+}
